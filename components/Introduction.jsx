@@ -16,7 +16,7 @@ const Introduction = () => {
           <div className='flex flex-col gap-6'>
           <Image width={600} src={Zimo} alt="zimo logo" className='ml-3 sm:ml-10 lg:ml-1 w-[18rem] md:w-[30rem]'/>
           <h3 className='text-black text-[1.2rem] font-normal text-center tracking-[0.1rem] px-12 pt-10'>CONNECTING USERS FROM ACROSS THE GLOBE</h3>
-          <h2 className='text-black text-[1.2rem] font-normal  text-center tracking-[0.2rem] px-12'>TO FACILITATE LIFE'S MOST IMPORTANT</h2>
+          <h2 className='text-black text-[1.2rem] font-normal  text-center tracking-[0.2rem] px-12'>TO FACILITATE LIFE&apos;S MOST IMPORTANT</h2>
           <h1 className='text-black text-[1.2rem] font-normal  text-center tracking-[0.3rem] px-12'>PERSONAL TRANSACTIONS</h1>
           </div>
         </div>

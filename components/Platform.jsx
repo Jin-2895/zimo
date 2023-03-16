@@ -13,7 +13,7 @@ const Platform = () => {
         <div className='flex flex-col lg:flex-row mt-[10rem]'>
           <div className='px-10 py-10 mt-p[10rem] flex justify-center flex-col lg:flex-col'>
             <div className='px-10 mt-10 py-10'>
-              <Image width={550} src={ZimaB}/>
+              <Image width={550} src={ZimaB} alt=""/>
               </div>
               <div className='px-10'>
                 <h1 className='font-[500] tracking-[0.3rem] text-[2rem]'>ONE SOURCE</h1>

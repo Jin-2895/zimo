@@ -11,7 +11,7 @@ const Partners = () => {
         <div className='flex flex-col lg:flex-row mt-[10rem]'>
           <div className='px-10 py-10 mt-p[10rem] flex justify-center flex-col lg:flex-col'>
             <div className='px-10 mt-10 py-10'>
-              <Image width={300} src={ZimaB}/>
+              <Image width={300} src={ZimaB} alt=""/>
               </div>
               <div className='px-0 lg:px-10'>
                 <h1 className='font-[500] text-gray-400 tracking-[0.3rem] leading-3 text-[2.5rem] lg:text-[3.5rem] mt-5'>PARTNERS</h1>
