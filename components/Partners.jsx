@@ -6,7 +6,7 @@ import Partner2 from "../public/partner2.png"
 
 const Partners = () => {
   return (
-    <div className='h-[100vh] top-[10rem]'>
+    <div className='h-[100vh]'>
       <div className='ml-0 lg:ml-10'>
         <div className='flex flex-col lg:flex-row mt-[10rem]'>
           <div className='px-10 py-10 mt-p[10rem] flex justify-center flex-col lg:flex-col'>

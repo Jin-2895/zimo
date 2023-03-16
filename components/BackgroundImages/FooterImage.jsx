@@ -3,7 +3,7 @@ import React from 'react'
 const FooterImage = () => {
   return (
     <div
-        className="bg-[url('/Images/global1.png')] h-screen w-screen" >
+        className="bg-[url('/Images/yacht2222.png')] h-screen w-screen" >
     </div>
   )
 }
